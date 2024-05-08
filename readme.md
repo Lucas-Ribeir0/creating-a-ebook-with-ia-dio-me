@@ -5,7 +5,7 @@ Este repositório tem como objetivo apresentar o projeto feito com base na aulas
 
 ##### ⚠️ Contém imagens e texto criados por inteligências artificiais, portanto, não deve se considerar fidelidade do conteúdo apresentado, se tratando apenas de exercício didático.
 
-🌵 [Leia Aqui!](https://github.com/Lucas-Ribeir0/creating-a-ebook-with-ia-dio-me/blob/main/output/E-BOOK_Cowboys_Dados)
+🌵 [Leia Aqui!](https://github.com/Lucas-Ribeir0/creating-a-ebook-with-ia-dio-me/blob/main/output/E-BOOK_Cowboys_Dados.pdf)
 
 <hr/>
 
